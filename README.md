@@ -37,11 +37,4 @@ MovieRAG is an application that takes an audio file as input and identifies the 
 - **Regex & BeautifulSoup**: For data cleaning and preprocessing.
 - **Hugging Face**: BERT model ("thenlper/gte-small") for generating text embeddings.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MovieRAG.git
-   cd MovieRAG
-
  
